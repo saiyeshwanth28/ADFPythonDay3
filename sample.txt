@@ -1,0 +1,467 @@
+2021-09-07 20:50:07 INFO-file reading and splitting into words
+2021-09-07 20:50:07 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-07 20:50:07 INFO-most repeated word in the input file
+2021-09-07 20:50:07 INFO-unique list by removing duplicates
+2021-09-07 20:50:07 INFO-counter index with data as values
+2021-09-07 20:50:07 INFO-splitting based on vowels
+2021-09-07 20:50:07 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-07 20:50:07 INFO-capitalizing every 3rd letter of a word
+2021-09-07 20:50:07 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-07 20:50:07 INFO-capitalizing every fifth word
+2021-09-07 20:50:07 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-07 20:50:07 INFO-replacing the new line character with semi colon
+2021-09-07 20:50:07 INFO-creating an unique file
+2021-09-07 20:50:07 INFO-file written successfully
+2021-09-08 07:40:31 INFO-file reading and splitting into words
+2021-09-08 07:40:31 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:40:31 INFO-most repeated word in the input file
+2021-09-08 07:40:31 INFO-unique list by removing duplicates
+2021-09-08 07:40:31 INFO-counter index with data as values
+2021-09-08 07:40:31 INFO-splitting based on vowels
+2021-09-08 07:40:31 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:40:31 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:40:31 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:40:31 INFO-capitalizing every fifth word
+2021-09-08 07:40:31 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:40:31 INFO-replacing the new line character with semi colon
+2021-09-08 07:40:31 INFO-creating an unique file
+2021-09-08 07:40:31 INFO-file written successfully
+2021-09-08 07:40:52 INFO-file reading and splitting into words
+2021-09-08 07:40:52 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:40:52 INFO-most repeated word in the input file
+2021-09-08 07:40:52 INFO-unique list by removing duplicates
+2021-09-08 07:40:52 INFO-counter index with data as values
+2021-09-08 07:40:52 INFO-splitting based on vowels
+2021-09-08 07:40:52 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:40:52 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:40:52 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:40:52 INFO-capitalizing every fifth word
+2021-09-08 07:40:52 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:40:52 INFO-replacing the new line character with semi colon
+2021-09-08 07:40:52 INFO-creating an unique file
+2021-09-08 07:40:52 INFO-file written successfully
+2021-09-08 07:45:03 INFO-file reading and splitting into words
+2021-09-08 07:45:03 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:45:03 INFO-most repeated word in the input file
+2021-09-08 07:45:03 INFO-unique list by removing duplicates
+2021-09-08 07:45:03 INFO-counter index with data as values
+2021-09-08 07:45:03 INFO-splitting based on vowels
+2021-09-08 07:45:03 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:45:03 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:45:03 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:45:03 INFO-capitalizing every fifth word
+2021-09-08 07:45:03 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:45:03 INFO-replacing the new line character with semi colon
+2021-09-08 07:45:03 INFO-creating an unique file
+2021-09-08 07:45:03 INFO-file written successfully
+2021-09-08 07:45:18 INFO-file reading and splitting into words
+2021-09-08 07:45:18 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:45:18 INFO-most repeated word in the input file
+2021-09-08 07:45:18 INFO-unique list by removing duplicates
+2021-09-08 07:45:18 INFO-counter index with data as values
+2021-09-08 07:45:18 INFO-splitting based on vowels
+2021-09-08 07:45:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:45:18 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:45:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:45:18 INFO-capitalizing every fifth word
+2021-09-08 07:45:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:45:18 INFO-replacing the new line character with semi colon
+2021-09-08 07:45:18 INFO-creating an unique file
+2021-09-08 07:45:18 INFO-file written successfully
+2021-09-08 07:46:15 INFO-file reading and splitting into words
+2021-09-08 07:46:15 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:46:15 INFO-most repeated word in the input file
+2021-09-08 07:46:15 INFO-unique list by removing duplicates
+2021-09-08 07:46:15 INFO-counter index with data as values
+2021-09-08 07:46:15 INFO-splitting based on vowels
+2021-09-08 07:46:15 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:46:15 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:46:15 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:46:15 INFO-capitalizing every fifth word
+2021-09-08 07:46:15 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:46:15 INFO-replacing the new line character with semi colon
+2021-09-08 07:46:15 INFO-creating an unique file
+2021-09-08 07:46:15 INFO-file written successfully
+2021-09-08 07:56:06 INFO-file reading and splitting into words
+2021-09-08 07:56:06 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:56:06 INFO-most repeated word in the input file
+2021-09-08 07:56:06 INFO-unique list by removing duplicates
+2021-09-08 07:56:06 INFO-counter index with data as values
+2021-09-08 07:56:06 INFO-splitting based on vowels
+2021-09-08 07:56:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:56:06 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:56:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:56:06 INFO-capitalizing every fifth word
+2021-09-08 07:56:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:56:06 INFO-replacing the new line character with semi colon
+2021-09-08 07:56:06 INFO-creating an unique file
+2021-09-08 07:56:06 INFO-file written successfully
+2021-09-08 07:57:12 INFO-file reading and splitting into words
+2021-09-08 07:57:12 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 07:57:12 INFO-most repeated word in the input file
+2021-09-08 07:57:12 INFO-unique list by removing duplicates
+2021-09-08 07:57:12 INFO-counter index with data as values
+2021-09-08 07:57:12 INFO-splitting based on vowels
+2021-09-08 07:57:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:57:12 INFO-capitalizing every 3rd letter of a word
+2021-09-08 07:57:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 07:57:12 INFO-capitalizing every fifth word
+2021-09-08 07:57:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 07:57:12 INFO-replacing the new line character with semi colon
+2021-09-08 07:57:12 INFO-creating an unique file
+2021-09-08 07:57:12 INFO-file written successfully
+2021-09-08 08:51:22 INFO-file reading and splitting into words
+2021-09-08 08:51:22 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 08:51:22 INFO-most repeated word in the input file
+2021-09-08 08:51:22 INFO-unique list by removing duplicates
+2021-09-08 08:51:22 INFO-counter index with data as values
+2021-09-08 08:51:22 INFO-splitting based on vowels
+2021-09-08 08:51:22 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 08:51:22 INFO-capitalizing every 3rd letter of a word
+2021-09-08 08:51:22 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 08:51:22 INFO-capitalizing every fifth word
+2021-09-08 08:51:22 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 08:51:22 INFO-replacing the new line character with semi colon
+2021-09-08 08:51:22 INFO-creating an unique file
+2021-09-08 08:51:22 INFO-file written successfully
+2021-09-08 09:43:16 INFO-file reading and splitting into words
+2021-09-08 09:43:16 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 09:43:16 INFO-most repeated word in the input file
+2021-09-08 09:43:16 INFO-unique list by removing duplicates
+2021-09-08 09:43:16 INFO-counter index with data as values
+2021-09-08 09:43:16 INFO-splitting based on vowels
+2021-09-08 09:43:16 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 09:43:16 INFO-capitalizing every 3rd letter of a word
+2021-09-08 09:43:16 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 09:43:16 INFO-capitalizing every fifth word
+2021-09-08 09:43:16 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 09:43:16 INFO-replacing the new line character with semi colon
+2021-09-08 09:43:16 INFO-creating an unique file
+2021-09-08 09:43:16 INFO-file written successfully
+2021-09-08 09:52:06 INFO-file reading and splitting into words
+2021-09-08 09:52:06 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 09:52:06 INFO-most repeated word in the input file
+2021-09-08 09:52:06 INFO-unique list by removing duplicates
+2021-09-08 09:52:06 INFO-counter index with data as values
+2021-09-08 09:52:06 INFO-splitting based on vowels
+2021-09-08 09:52:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 09:52:06 INFO-capitalizing every 3rd letter of a word
+2021-09-08 09:52:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 09:52:06 INFO-capitalizing every fifth word
+2021-09-08 09:52:06 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 09:52:06 INFO-replacing the new line character with semi colon
+2021-09-08 09:52:06 INFO-creating an unique file
+2021-09-08 09:52:06 INFO-file written successfully
+2021-09-08 13:23:12 INFO-file reading and splitting into words
+2021-09-08 13:23:12 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:23:12 INFO-most repeated word in the input file
+2021-09-08 13:23:12 INFO-unique list by removing duplicates
+2021-09-08 13:23:12 INFO-counter index with data as values
+2021-09-08 13:23:12 INFO-splitting based on vowels
+2021-09-08 13:23:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:23:12 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:23:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:23:12 INFO-capitalizing every fifth word
+2021-09-08 13:23:12 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 13:23:12 INFO-replacing the new line character with semi colon
+2021-09-08 13:23:12 INFO-creating an unique file
+2021-09-08 13:23:12 INFO-file written successfully
+2021-09-08 13:24:05 INFO-file reading and splitting into words
+2021-09-08 13:24:05 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:24:05 INFO-most repeated word in the input file
+2021-09-08 13:24:05 INFO-unique list by removing duplicates
+2021-09-08 13:24:05 INFO-counter index with data as values
+2021-09-08 13:24:05 INFO-splitting based on vowels
+2021-09-08 13:24:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:24:05 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:24:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:24:05 INFO-capitalizing every fifth word
+2021-09-08 13:24:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 13:24:05 INFO-replacing the new line character with semi colon
+2021-09-08 13:24:05 INFO-creating an unique file
+2021-09-08 13:24:05 INFO-file written successfully
+2021-09-08 13:25:20 INFO-file reading and splitting into words
+2021-09-08 13:25:20 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:25:20 INFO-most repeated word in the input file
+2021-09-08 13:25:20 INFO-unique list by removing duplicates
+2021-09-08 13:25:20 INFO-counter index with data as values
+2021-09-08 13:25:20 INFO-splitting based on vowels
+2021-09-08 13:25:20 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:25:20 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:25:20 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:25:20 INFO-capitalizing every fifth word
+2021-09-08 13:25:20 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 13:25:20 INFO-replacing the new line character with semi colon
+2021-09-08 13:25:20 INFO-creating an unique file
+2021-09-08 13:25:20 INFO-file written successfully
+2021-09-08 13:26:24 INFO-file reading and splitting into words
+2021-09-08 13:26:24 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:26:24 INFO-most repeated word in the input file
+2021-09-08 13:26:24 INFO-unique list by removing duplicates
+2021-09-08 13:26:24 INFO-counter index with data as values
+2021-09-08 13:26:24 INFO-splitting based on vowels
+2021-09-08 13:26:24 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:26:24 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:26:24 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:26:24 INFO-capitalizing every fifth word
+2021-09-08 13:26:24 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 13:26:24 INFO-replacing the new line character with semi colon
+2021-09-08 13:26:24 INFO-creating an unique file
+2021-09-08 13:26:24 INFO-file written successfully
+2021-09-08 13:28:18 INFO-file reading and splitting into words
+2021-09-08 13:28:18 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:28:18 INFO-most repeated word in the input file
+2021-09-08 13:28:18 INFO-unique list by removing duplicates
+2021-09-08 13:28:18 INFO-counter index with data as values
+2021-09-08 13:28:18 INFO-splitting based on vowels
+2021-09-08 13:28:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:28:18 ERROR-exception occurred : 
+2021-09-08 13:28:18 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:28:18 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'to', 'adF', 'maDam', 'as', 'a', 'moM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'clAsses', 'anD', 'obJects', 'obJect', 'orIented', 'prOgramming', 'is', 'veRy', 'seCure', 'anD', 'quIck']
+2021-09-08 13:28:18 INFO-capitalizing every fifth word
+2021-09-08 13:28:18 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'TO', 'adF', 'maDam', 'as', 'a', 'MOM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'CLASSES', 'anD', 'obJects', 'obJect', 'orIented', 'PROGRAMMING', 'is', 'veRy', 'seCure', 'anD', 'QUICK']
+2021-09-08 13:28:18 INFO-replacing the new line character with semi colon
+2021-09-08 13:28:18 INFO-creating an unique file
+2021-09-08 13:28:18 INFO-file written successfully
+2021-09-08 13:29:21 INFO-file reading and splitting into words
+2021-09-08 13:29:21 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:29:21 INFO-most repeated word in the input file
+2021-09-08 13:29:21 INFO-unique list by removing duplicates
+2021-09-08 13:29:21 INFO-counter index with data as values
+2021-09-08 13:29:21 INFO-splitting based on vowels
+2021-09-08 13:29:21 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:29:21 ERROR-exception occurred : 
+2021-09-08 13:29:21 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:29:21 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'to', 'adF', 'maDam', 'as', 'a', 'moM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'clAsses', 'anD', 'obJects', 'obJect', 'orIented', 'prOgramming', 'is', 'veRy', 'seCure', 'anD', 'quIck']
+2021-09-08 13:29:21 INFO-capitalizing every fifth word
+2021-09-08 13:29:21 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'TO', 'adF', 'maDam', 'as', 'a', 'MOM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'CLASSES', 'anD', 'obJects', 'obJect', 'orIented', 'PROGRAMMING', 'is', 'veRy', 'seCure', 'anD', 'QUICK']
+2021-09-08 13:29:21 INFO-replacing the new line character with semi colon
+2021-09-08 13:29:21 INFO-creating an unique file
+2021-09-08 13:29:21 INFO-file written successfully
+2021-09-08 13:30:00 INFO-file reading and splitting into words
+2021-09-08 13:30:00 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:30:00 INFO-most repeated word in the input file
+2021-09-08 13:30:00 INFO-unique list by removing duplicates
+2021-09-08 13:30:00 INFO-counter index with data as values
+2021-09-08 13:30:00 INFO-splitting based on vowels
+2021-09-08 13:30:00 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:30:00 ERROR-exception occurred : 
+2021-09-08 13:30:00 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:30:00 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'to', 'adF', 'maDam', 'as', 'a', 'moM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'clAsses', 'anD', 'obJects', 'obJect', 'orIented', 'prOgramming', 'is', 'veRy', 'seCure', 'anD', 'quIck']
+2021-09-08 13:30:00 INFO-capitalizing every fifth word
+2021-09-08 13:30:00 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'TO', 'adF', 'maDam', 'as', 'a', 'MOM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'CLASSES', 'anD', 'obJects', 'obJect', 'orIented', 'PROGRAMMING', 'is', 'veRy', 'seCure', 'anD', 'QUICK']
+2021-09-08 13:30:00 INFO-replacing the new line character with semi colon
+2021-09-08 13:30:00 INFO-creating an unique file
+2021-09-08 13:30:00 INFO-file written successfully
+2021-09-08 13:30:48 INFO-file reading and splitting into words
+2021-09-08 13:30:48 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:30:48 INFO-most repeated word in the input file
+2021-09-08 13:30:48 INFO-unique list by removing duplicates
+2021-09-08 13:30:48 INFO-counter index with data as values
+2021-09-08 13:30:48 INFO-splitting based on vowels
+2021-09-08 13:30:48 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:30:48 ERROR-exception occurred : 
+2021-09-08 13:30:48 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:30:48 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'to', 'adF', 'maDam', 'as', 'a', 'moM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'clAsses', 'anD', 'obJects', 'obJect', 'orIented', 'prOgramming', 'is', 'veRy', 'seCure', 'anD', 'quIck']
+2021-09-08 13:30:48 INFO-capitalizing every fifth word
+2021-09-08 13:30:48 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'TO', 'adF', 'maDam', 'as', 'a', 'MOM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'CLASSES', 'anD', 'obJects', 'obJect', 'orIented', 'PROGRAMMING', 'is', 'veRy', 'seCure', 'anD', 'QUICK']
+2021-09-08 13:30:48 INFO-replacing the new line character with semi colon
+2021-09-08 13:30:48 INFO-creating an unique file
+2021-09-08 13:30:48 INFO-file written successfully
+2021-09-08 13:31:31 INFO-file reading and splitting into words
+2021-09-08 13:31:31 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 13:31:31 INFO-most repeated word in the input file
+2021-09-08 13:31:31 INFO-unique list by removing duplicates
+2021-09-08 13:31:31 INFO-counter index with data as values
+2021-09-08 13:31:31 INFO-splitting based on vowels
+2021-09-08 13:31:31 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 13:31:31 ERROR-exception occurred : 
+2021-09-08 13:31:31 INFO-capitalizing every 3rd letter of a word
+2021-09-08 13:31:31 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'to', 'adF', 'maDam', 'as', 'a', 'moM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'clAsses', 'anD', 'obJects', 'obJect', 'orIented', 'prOgramming', 'is', 'veRy', 'seCure', 'anD', 'quIck']
+2021-09-08 13:31:31 INFO-capitalizing every fifth word
+2021-09-08 13:31:31 INFO-['hi', 'heLlo', 'alL', 'weLcome', 'TO', 'adF', 'maDam', 'as', 'a', 'MOM', 'pyThon', 'prOgramming', 'wiTh', 'siMple', 'CLASSES', 'anD', 'obJects', 'obJect', 'orIented', 'PROGRAMMING', 'is', 'veRy', 'seCure', 'anD', 'QUICK']
+2021-09-08 13:31:31 INFO-replacing the new line character with semi colon
+2021-09-08 13:31:31 INFO-creating an unique file
+2021-09-08 13:31:31 INFO-file written successfully
+2021-09-08 14:59:01 INFO-file reading and splitting into words
+2021-09-08 14:59:01 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 14:59:01 INFO-most repeated word in the input file
+2021-09-08 14:59:01 INFO-unique list by removing duplicates
+2021-09-08 14:59:01 INFO-counter index with data as values
+2021-09-08 14:59:01 INFO-splitting based on vowels
+2021-09-08 14:59:01 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 14:59:01 INFO-capitalizing every 3rd letter of a word
+2021-09-08 14:59:01 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 14:59:01 INFO-capitalizing every fifth word
+2021-09-08 14:59:01 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 14:59:01 INFO-replacing the new line character with semi colon
+2021-09-08 14:59:01 INFO-creating an unique file
+2021-09-08 14:59:01 INFO-file written successfully
+2021-09-08 15:00:05 INFO-file reading and splitting into words
+2021-09-08 15:00:05 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 15:00:05 INFO-most repeated word in the input file
+2021-09-08 15:00:05 INFO-unique list by removing duplicates
+2021-09-08 15:00:05 INFO-counter index with data as values
+2021-09-08 15:00:05 INFO-splitting based on vowels
+2021-09-08 15:00:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:00:05 INFO-capitalizing every 3rd letter of a word
+2021-09-08 15:00:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:00:05 INFO-capitalizing every fifth word
+2021-09-08 15:00:05 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 15:00:05 INFO-replacing the new line character with semi colon
+2021-09-08 15:00:05 INFO-creating an unique file
+2021-09-08 15:00:05 INFO-file written successfully
+2021-09-08 15:00:10 INFO-file reading and splitting into words
+2021-09-08 15:00:10 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 15:00:10 INFO-most repeated word in the input file
+2021-09-08 15:00:10 INFO-unique list by removing duplicates
+2021-09-08 15:00:10 INFO-counter index with data as values
+2021-09-08 15:00:10 INFO-splitting based on vowels
+2021-09-08 15:00:10 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:00:10 INFO-capitalizing every 3rd letter of a word
+2021-09-08 15:00:10 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:00:10 INFO-capitalizing every fifth word
+2021-09-08 15:00:10 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 15:00:10 INFO-replacing the new line character with semi colon
+2021-09-08 15:00:10 INFO-creating an unique file
+2021-09-08 15:00:10 INFO-file written successfully
+2021-09-08 15:02:18 INFO-file reading and splitting into words
+2021-09-08 15:02:18 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 15:02:18 INFO-most repeated word in the input file
+2021-09-08 15:02:18 INFO-unique list by removing duplicates
+2021-09-08 15:02:18 INFO-counter index with data as values
+2021-09-08 15:02:18 INFO-splitting based on vowels
+2021-09-08 15:02:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:02:18 INFO-capitalizing every 3rd letter of a word
+2021-09-08 15:02:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 15:02:18 INFO-capitalizing every fifth word
+2021-09-08 15:02:18 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 15:02:18 INFO-replacing the new line character with semi colon
+2021-09-08 15:02:18 INFO-creating an unique file
+2021-09-08 15:02:18 INFO-file written successfully
+2021-09-08 16:29:17 INFO-file reading and splitting into words
+2021-09-08 16:29:17 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-08 16:29:17 INFO-most repeated word in the input file
+2021-09-08 16:29:17 INFO-unique list by removing duplicates
+2021-09-08 16:29:17 INFO-counter index with data as values
+2021-09-08 16:29:17 INFO-splitting based on vowels
+2021-09-08 16:29:17 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 16:29:17 INFO-capitalizing every 3rd letter of a word
+2021-09-08 16:29:17 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-08 16:29:17 INFO-capitalizing every fifth word
+2021-09-08 16:29:17 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-08 16:29:17 INFO-replacing the new line character with semi colon
+2021-09-08 16:29:17 INFO-creating an unique file
+2021-09-08 16:29:17 INFO-file written successfully
+2021-09-09 07:34:37 INFO-file reading and splitting into words
+2021-09-09 07:34:37 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 07:34:37 INFO-most repeated word in the input file
+2021-09-09 07:34:37 INFO-unique list by removing duplicates
+2021-09-09 07:34:37 INFO-counter index with data as values
+2021-09-09 07:34:37 INFO-splitting based on vowels
+2021-09-09 07:34:37 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 07:34:37 INFO-capitalizing every 3rd letter of a word
+2021-09-09 07:34:37 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 07:34:37 INFO-capitalizing every fifth word
+2021-09-09 07:34:37 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 07:34:37 INFO-replacing the new line character with semi colon
+2021-09-09 07:34:37 INFO-creating an unique file
+2021-09-09 07:34:37 INFO-file written successfully
+2021-09-09 07:42:59 INFO-file reading and splitting into words
+2021-09-09 07:42:59 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 07:42:59 INFO-most repeated word in the input file
+2021-09-09 07:42:59 INFO-unique list by removing duplicates
+2021-09-09 07:42:59 INFO-counter index with data as values
+2021-09-09 07:42:59 INFO-splitting based on vowels
+2021-09-09 07:42:59 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 07:42:59 INFO-capitalizing every 3rd letter of a word
+2021-09-09 07:42:59 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 07:42:59 INFO-capitalizing every fifth word
+2021-09-09 07:42:59 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 07:42:59 INFO-replacing the new line character with semi colon
+2021-09-09 07:42:59 INFO-creating an unique file
+2021-09-09 07:42:59 INFO-file written successfully
+2021-09-09 10:50:40 INFO-file reading and splitting into words
+2021-09-09 10:50:40 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 10:50:40 INFO-most repeated word in the input file
+2021-09-09 10:50:40 INFO-unique list by removing duplicates
+2021-09-09 10:50:40 INFO-counter index with data as values
+2021-09-09 10:50:40 INFO-splitting based on vowels
+2021-09-09 10:50:40 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 10:50:40 INFO-capitalizing every 3rd letter of a word
+2021-09-09 10:50:40 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 10:50:40 INFO-capitalizing every fifth word
+2021-09-09 10:50:40 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 10:50:40 INFO-replacing the new line character with semi colon
+2021-09-09 10:50:40 INFO-creating an unique file
+2021-09-09 10:50:40 INFO-file written successfully
+2021-09-09 10:50:46 INFO-file reading and splitting into words
+2021-09-09 10:50:46 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 10:50:46 INFO-most repeated word in the input file
+2021-09-09 10:50:46 INFO-unique list by removing duplicates
+2021-09-09 10:50:46 INFO-counter index with data as values
+2021-09-09 10:50:46 INFO-splitting based on vowels
+2021-09-09 10:50:46 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 10:50:46 INFO-capitalizing every 3rd letter of a word
+2021-09-09 10:50:46 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 10:50:46 INFO-capitalizing every fifth word
+2021-09-09 10:50:46 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 10:50:46 INFO-replacing the new line character with semi colon
+2021-09-09 10:50:46 INFO-creating an unique file
+2021-09-09 10:50:46 INFO-file written successfully
+2021-09-09 11:29:51 INFO-file reading and splitting into words
+2021-09-09 11:29:51 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 11:29:51 INFO-most repeated word in the input file
+2021-09-09 11:29:51 INFO-unique list by removing duplicates
+2021-09-09 11:29:51 INFO-counter index with data as values
+2021-09-09 11:29:51 INFO-splitting based on vowels
+2021-09-09 11:29:51 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 11:29:51 INFO-capitalizing every 3rd letter of a word
+2021-09-09 11:29:51 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 11:29:51 INFO-capitalizing every fifth word
+2021-09-09 11:29:51 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 11:29:51 INFO-replacing the new line character with semi colon
+2021-09-09 11:29:51 INFO-creating an unique file
+2021-09-09 11:29:51 INFO-file written successfully
+2021-09-09 11:51:36 INFO-file reading and splitting into words
+2021-09-09 11:51:36 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 11:51:36 INFO-most repeated word in the input file
+2021-09-09 11:51:36 INFO-unique list by removing duplicates
+2021-09-09 11:51:36 INFO-counter index with data as values
+2021-09-09 11:51:36 INFO-splitting based on vowels
+2021-09-09 11:51:36 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 11:51:36 INFO-capitalizing every 3rd letter of a word
+2021-09-09 11:51:36 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 11:51:36 INFO-capitalizing every fifth word
+2021-09-09 11:51:36 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 11:51:36 INFO-replacing the new line character with semi colon
+2021-09-09 11:51:36 INFO-creating an unique file
+2021-09-09 11:51:36 INFO-file written successfully
+2021-09-09 14:45:58 INFO-file reading and splitting into words
+2021-09-09 14:45:58 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 14:45:58 INFO-most repeated word in the input file
+2021-09-09 14:45:58 INFO-unique list by removing duplicates
+2021-09-09 14:45:58 INFO-counter index with data as values
+2021-09-09 14:45:58 INFO-splitting based on vowels
+2021-09-09 14:45:58 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 14:45:58 INFO-capitalizing every 3rd letter of a word
+2021-09-09 14:45:58 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 14:45:58 INFO-capitalizing every fifth word
+2021-09-09 14:45:58 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 14:45:58 INFO-replacing the new line character with semi colon
+2021-09-09 14:45:58 INFO-creating an unique file
+2021-09-09 14:45:58 INFO-file written successfully
+2021-09-09 14:47:43 INFO-file reading and splitting into words
+2021-09-09 14:47:43 INFO-['hi', 'hello', 'all', 'welcome', 'to', 'adf', 'madam', 'as', 'a', 'mom', 'python', 'programming', 'with', 'simple', 'classes', 'and', 'objects', 'object', 'oriented', 'programming', 'is', 'very', 'secure', 'and', 'quick']
+2021-09-09 14:47:43 INFO-most repeated word in the input file
+2021-09-09 14:47:43 INFO-unique list by removing duplicates
+2021-09-09 14:47:43 INFO-counter index with data as values
+2021-09-09 14:47:43 INFO-splitting based on vowels
+2021-09-09 14:47:43 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyth', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpl', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'cts', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 14:47:43 INFO-capitalizing every 3rd letter of a word
+2021-09-09 14:47:43 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'm', '', 't', '', '', 'df', 'm', 'd', 'm', '', 's', '', '', 'm', 'm', 'pyTh', 'n', 'pr', 'gr', 'mm', 'ng', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'nd', '', 'bj', 'ctS', '', 'bj', 'ct', '', 'r', '', 'nt', 'd', 'pr', 'gr', 'mm', 'ng', '', 's', 'v', 'ry', 's', 'c', 'r', '', '', 'nd', 'q', '', 'ck']
+2021-09-09 14:47:43 INFO-capitalizing every fifth word
+2021-09-09 14:47:43 INFO-['h', '', 'h', 'll', '', '', 'll', 'w', 'lc', 'M', '', 't', '', '', 'DF', 'm', 'd', 'm', '', 'S', '', '', 'm', 'm', 'PYTH', 'n', 'pr', 'gr', 'mm', 'NG', 'w', 'th', 's', 'mpL', '', 'cl', 'ss', 's', '', 'ND', '', 'bj', 'ctS', '', 'BJ', 'ct', '', 'r', '', 'NT', 'd', 'pr', 'gr', 'mm', 'NG', '', 's', 'v', 'ry', 'S', 'c', 'r', '', '', 'ND', 'q', '', 'ck']
+2021-09-09 14:47:43 INFO-replacing the new line character with semi colon
+2021-09-09 14:47:43 INFO-creating an unique file
+2021-09-09 14:47:43 INFO-file written successfully
